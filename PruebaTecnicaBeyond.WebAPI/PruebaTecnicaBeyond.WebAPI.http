@@ -1,0 +1,6 @@
+@PruebaTecnicaBeyond.WebAPI_HostAddress = http://localhost:5248
+
+GET {{PruebaTecnicaBeyond.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

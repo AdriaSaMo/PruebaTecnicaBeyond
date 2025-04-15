@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaBeyond", "Prue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaBeyond.Test", "PruebaTecnicaBeyond.Test\PruebaTecnicaBeyond.Test.csproj", "{5D49DCF6-50E4-4769-8AA1-3C97E4CB129F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaBeyond.WebAPI", "PruebaTecnicaBeyond.WebAPI\PruebaTecnicaBeyond.WebAPI.csproj", "{56E4E65B-72BD-4A7F-991D-E22C96941FA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5D49DCF6-50E4-4769-8AA1-3C97E4CB129F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D49DCF6-50E4-4769-8AA1-3C97E4CB129F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D49DCF6-50E4-4769-8AA1-3C97E4CB129F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E4E65B-72BD-4A7F-991D-E22C96941FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E4E65B-72BD-4A7F-991D-E22C96941FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E4E65B-72BD-4A7F-991D-E22C96941FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E4E65B-72BD-4A7F-991D-E22C96941FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
