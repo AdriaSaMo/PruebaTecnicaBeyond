@@ -7,4 +7,5 @@
 /bin
 /PruebaTecnicaBeyond.Test/bin/Debug/net9.0
 /PruebaTecnicaBeyond.Test/obj
-/PruebaTecnicaBeyond.WebAPI
+/PruebaTecnicaBeyond.WebAPI/bin/Debug/net9.0
+/PruebaTecnicaBeyond.WebAPI/obj
