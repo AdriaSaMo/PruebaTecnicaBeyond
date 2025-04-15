@@ -5,3 +5,6 @@
 /.vs
 /obj
 /bin
+/PruebaTecnicaBeyond.Test/bin/Debug/net9.0
+/PruebaTecnicaBeyond.Test/obj
+/PruebaTecnicaBeyond.WebAPI
