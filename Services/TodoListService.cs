@@ -94,6 +94,16 @@ namespace PruebaTecnicaBeyond.Services
             }
         }
 
+        public IEnumerable<TodoItem> GetAllItems()
+        {
+            return _todoItems.AsReadOnly();
+        }
+
+        public TodoItem GetItemById(int id)
+        {
+            return _todoItems.FirstOrDefault(t => t.Id == id);
+        }
+
 
         private string SpacesAfterPercent(int spaces) 
         {
